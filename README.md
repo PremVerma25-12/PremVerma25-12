@@ -1,81 +1,21 @@
-# 💫 About Me:
-<div align="center">
-  <img src="https://i.imgur.com/m5XjHon.jpg" width="300" alt="Prem Verma Banner">
-</div>
+# ðŸ’« About Me:
+ðŸ‘‹ Hi, I'm Prem Verma, a passionate self-taught developer from India ðŸ‡®ðŸ‡³<br><br>ðŸ’» I love building full-stack web apps, creative UI designs, and exploring new tech<br><br>ðŸ”­ Currently working on: HomeShop ðŸ›’ â€” an e-commerce platform<br><br>ðŸŒ± Iâ€™m currently learning Django, MongoDB, and UI/UX design<br><br>ðŸ› ï¸ Skills: HTML, CSS, JavaScript, TailwindCSS, Python, Django, MongoDB, Git, GitHub, API Integration<br><br>ðŸ§  Iâ€™m also exploring AI & NLP using Hugging Face Transformers ðŸ¤–<br><br>ðŸŽ¯ Goal: Build projects that solve real-world problems and level up every day<br><br>ðŸ“ I regularly share projects and code snippets to help others learn faster<br><br>âœ¨ I believe in â€œCode, Create, Contribute.â€<br>
 
-### 👋 Hi, I'm Prem Verma 
-**🚀 Full-Stack Developer | Python/C++ Expert | UI/UX Enthusiast**  
-📍 From India 🇮🇳 | 🌍 Building for the Web  
 
-### 🔥 Core Expertise:  
-- **Python Development**: Django, Flask, Data Science  
-- **C++ Systems Programming**: Algorithms, Performance Optimization  
-- Full-stack web development with modern JavaScript frameworks  
+## ðŸŒ Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Prem Verma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mainpremhun_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prem Verma) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/premv6264) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/X__king__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:premv6264@gmail.com) 
 
-### 🛠️ Current Focus:  
-📌 **HomeShop** 🛒 — A Python/Django + React e-commerce platform  
-📌 **Algorithm Visualizer** - C++/Python hybrid for CS education  
-📌 Exploring **AI/ML** with Python (Hugging Face, PyTorch)  
+# ðŸ’» Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# ðŸ“Š GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Prem_Verma25-12&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Prem_Verma25-12&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prem_Verma25-12&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🌱 Learning Trail:  
-▶️ **Advanced C++20 Features** | **Python Asyncio**  
-▶️ **Django REST Framework** | **MongoDB**  
-
-### 🛠️ Tech Arsenal:  
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-
-**Python Ecosystem:**  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-
-**C++ Tools:**  
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white) 
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)  
-
-**Full-Stack:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  
+## ðŸ† GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Prem_Verma25-12&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Prem_Verma25-12&icon=2&color=5)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PremVerma) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/PremVerma) 
-[![CodeForces](https://img.shields.io/badge/CodeForces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/PremVerma)
-
----
-
-## 🚀 GitHub Analytics:
-<div align="center">
-
-[![Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=Prem_Verma25-12&repo=python-projects&theme=dark)](https://github.com/Prem_Verma25-12/python-projects)
-[![C++ Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=Prem_Verma25-12&repo=cpp-algorithms&theme=dark)](https://github.com/Prem_Verma25-12/cpp-algorithms)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Prem_Verma25-12&theme=neon-dark&border_radius=6)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prem_Verma25-12&layout=compact&theme=vision-friendly-dark&hide=html,css)](https://github.com/Prem_Verma25-12)
-
-</div>
-
----
-
-### 🔥 Featured Projects:
-1. **Stock Analysis Tool** - Python/Pandas financial data processor  
-2. **Game Engine** - C++17 with Vulkan rendering  
-3. **Django REST API** - E-commerce backend with JWT auth  
-
----
-
-### 🎯 Competitive Programming:
-🏆 **Expert** on Codeforces (Max Rating: 1800)  
-🏅 **Top 5%** LeetCode (450+ problems solved)  
-
-⭐ **Fun Fact:** I used C++ to build a Rubik's cube solver that works in under 1 second!  
-
-[![Visits](https://visitor-badge.laobi.icu/badge?page_id=Prem_Verma25-12.Prem_Verma25-12)](https://github.com/Prem_Verma25-12)  
-
-*"First solve the problem. Then write the code." — John Johnson*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
