@@ -63,6 +63,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PremVerma25-12&theme=tokyonight&layout=compact)
 
 ---
-
+<div align="center" style="margin-top: 40px; padding: 20px; background-color: #0f0c29; border-radius: 15px; box-shadow: 0 0 20px rgba(0, 255, 231, 0.3);">
+  <img src="IMG_20250807_010642.jpg" alt="Zoro" style="max-width: 100%; height: auto; border-radius: 12px;" />
+  <p style="margin-top: 15px; font-size: 18px; color: #00ffe7; font-weight: bold;">
+    “I’m going to be the world’s greatest swordsman.” — Roronoa Zoro
+  </p>
+</div>
 
   
