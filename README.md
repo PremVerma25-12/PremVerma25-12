@@ -1,78 +1,82 @@
+<p align="center" style="background: url('https://i.imgur.com/Jr6Y4Jb.jpg') center/cover no-repeat; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 40px; border-radius: 15px; color: #e0f7fa; box-shadow: 0 10px 30px rgba(0, 179, 255, 0.3); position: relative; overflow: hidden;">
+  
+  <!-- Overlay for better text readability -->
+  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(15, 12, 41, 0.85); z-index: 0;"></div>
+  
+  <div style="position: relative; z-index: 1;">
+    
+    <img src="https://i.imgur.com/m5XjHon.jpg" alt="Prem Verma" width="250" style="border-radius: 50%; border: 4px solid #00e5ff; box-shadow: 0 0 20px #00b8d4; margin-bottom: 20px;">
 
-<p align="center" style="background-color:#0f0c29;background-image:linear-gradient(315deg,#0f0c29,#302b63,#24243e);padding: 30px; border-radius: 10px; color: #00ffe7;">
+    <h1 style="font-size: 2.5rem; margin-bottom: 10px; color: #00e5ff; text-shadow: 0 0 10px rgba(0, 229, 255, 0.5);">🍥 Yo! I'm Prem Verma</h1>
+    
+    <h3 style="font-size: 1.3rem; margin-top: 0; color: #80deea;">💻 Full-Stack Developer | 🧠 Tech Explorer | � UI/UX Enthusiast</h3>
+    
+    <div style="background: rgba(0, 150, 199, 0.2); padding: 15px; border-radius: 10px; backdrop-filter: blur(5px); margin: 20px 0; border: 1px solid #00b8d4;">
+      <p style="margin: 0; font-size: 1.1rem;">"Building digital experiences that combine aesthetics with functionality"</p>
+    </div>
 
-<img src="❥Zoro••• _ One Piece.jpeg" alt="Zoro" align="right" width="300" style="border-radius:15px; pattern-repeat:repeat;" />
+    ---
 
-# 🍥 Yo! I'm Prem Verma
+    ### 📬 Connect with me:
+    
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
+      [![Email](https://img.shields.io/badge/Email-Contact%20Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premv6264@gmail.com)
+      [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Prem%20Verma)
+      [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PremVerma25-12)
+      [![Twitter](https://img.shields.io/badge/X-Follow%20Me-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/X__king__)
+    </div>
 
-### 💻 Full-Stack Developer | 🧠 Tech Explorer | 🎯 Problem Solver  
+    ---
 
----
+    ## 🔥 About Me:
+    
+    <div style="background: rgba(0, 131, 143, 0.15); padding: 15px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #00b8d4;">
+      - 🧠 Self-taught developer from India 🇮🇳<br>
+      - 🚀 Currently building **HomeShop** (Django + React e-commerce)<br>
+      - 🌱 Learning: `Django REST`, `MongoDB Atlas`, `Three.js`<br>
+      - 💡 Passionate about open-source and technical writing<br>
+      - ✨ Life motto: **"Code with purpose, create with passion"**
+    </div>
 
-### 📬 Connect with me:
+    ---
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:premv6264@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prem%20Verma)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mainpremhun_)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Prem%20Verma)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/X__king__)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/premv6264)
+    ## 🏴‍☠️ Developer Mindset:
+    > _"In the world of programming, the only limit is your imagination. Keep compiling your dreams until they execute successfully!"_
 
----
+    ---
 
-## 🔥 About Me:
+    ## 🛠️ Tech Stack:
+    
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; margin: 20px 0;">
+      ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+      ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+      ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+      ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+      ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+      ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+      ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+      ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    </div>
 
-- 🧠 Self-taught full-stack dev from 🇮🇳
-- 💡 Currently building **HomeShop 🛒**
-- 🧪 Learning: `Django`, `MongoDB`, `UI/UX`, `Hugging Face Transformers`
-- 🧑‍💻 Sharing code to help others grow
-- ✨ Motto: **“Code, Create, Contribute.”**
+    ---
 
----
+    ## 📊 GitHub Analytics:
+    
+    <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=PremVerma25-12&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" style="width: 55%; min-width: 300px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PremVerma25-12&theme=algolia&hide_border=true" alt="Streak Stats" style="width: 40%; min-width: 250px;">
+    </div>
+    
+    <div style="margin-top: 15px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremVerma25-12&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" style="width: 100%;">
+    </div>
 
-## 🏴‍☠️ One Piece Vibes:
-> _"Power isn’t determined by your size, but the size of your heart and dreams!"_  
-> — **Monkey D. Luffy**
+    ---
 
----
-
-## 🧰 Tech Stack:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
-
-![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=PremVerma25-12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![Streak](https://streak-stats.demolab.com?user=PremVerma25-12&theme=tokyonight&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PremVerma25-12&theme=tokyonight&layout=compact)
-
----
-
-## 🏆 GitHub Trophies:
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=PremVerma25-12&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## 👣 Visitor Count:
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=PremVerma25-12&icon=2&color=5)
-
+  
+    
+    <div style="text-align: center; margin-top: 30px; font-size: 0.9rem; color: #80deea;">
+      Thanks for visiting! Let's build something amazing together 🚀
+    </div>
+  </div>
 </p>
