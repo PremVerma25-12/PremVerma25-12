@@ -1,7 +1,7 @@
 
 <p align="center" style="background-color:#0f0c29;background-image:linear-gradient(315deg,#0f0c29,#302b63,#24243e);padding: 30px; border-radius: 10px; color: #00ffe7;">
 
-<img src="" alt="Zoro" align="right" width="300" style="border-radius:15px; pattern-repeat:repeat;" />
+<img src="❥Zoro••• _ One Piece.jpeg" alt="Zoro" align="right" width="300" style="border-radius:15px; pattern-repeat:repeat;" />
 
 # 🍥 Yo! I'm Prem Verma
 
