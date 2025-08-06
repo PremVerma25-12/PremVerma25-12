@@ -76,7 +76,7 @@
   
     
     <div style="text-align: center; margin-top: 30px; font-size: 0.9rem; color: #80deea;">
-      Thanks for visiting! Let's build something amazing together 🚀
+      Thanks for visiting! Let's build something amazing together 🚀 
     </div>
   </div>
 </p>
