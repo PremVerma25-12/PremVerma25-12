@@ -1,73 +1,103 @@
-<p align="center" style="background-color:#0f0c29;background-image:linear-gradient(315deg,#0f0c29,#302b63,#24243e);padding: 30px; border-radius: 10px; color: #00ffe7;">
+<h1 align="center">Hi, I'm Prem Verma 👋</h1>
 
-<img src="❥Zoro••• _ One Piece.jpeg" alt="Zoro" align="right" width="300" style="border-radius:15px; pattern-repeat:repeat;" />
+<p align="center">
+  <strong>Full Stack Python Developer</strong> &nbsp;|&nbsp; Django &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; JavaScript
+</p>
 
-# 👒 Yo! I'm Prem Verma
-
-### 💻 Full-Stack Developer | 🧠 Tech Explorer | 🎯 Problem Solver  
-
----
-
-### 📬 Connect with me:
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:premv6264@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prem%20Verma)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mainpremhun_)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Prem%20Verma)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/X__king__)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/premv6264)
+<p align="center">
+  <a href="mailto:premv6264@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
+  <a href="https://linkedin.com/in/premverma6264"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" /></a>
+  <a href="https://github.com/PremVerma25-12"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=flat-square" /></a>
+</p>
 
 ---
 
-## 🔥 About Me:
+## About Me
 
-- 🧠 Self-taught full-stack dev from 🇮🇳
-- 💡 Currently building **HomeShop 🛒**
-- 🧪 Learning: `Django`, `MongoDB`, `UI/UX`, `Hugging Face Transformers`
-- 🧑‍💻 Sharing code to help others grow
-- ✨ Motto: **“Code, Create, Contribute.”**
+I'm a Full Stack Python Developer with **8+ months of internship experience** across 2 companies, where I built and shipped **10+ production web applications**. I specialize in backend development with Django, RESTful API design, and database optimization — and I'm comfortable taking a project from database schema all the way to a responsive frontend.
 
----
-
-## 🏴‍☠️ One Piece Vibes:
-> _"Power isn’t determined by your size, but the size of your heart and dreams!"_  
-> — **Monkey D. Luffy**
+- 🔭 Currently building **HomeShop** — a full-featured e-commerce platform
+- 🌱 Expanding into: `MongoDB` · `Docker` · `Hugging Face Transformers` · `UI/UX Design`
+- 💼 Open to full-time **Software Engineer / Backend Developer** roles
+- 📍 Based in India — **Open to Relocation**
 
 ---
 
-## 🧰 Tech Stack:
+## 🛠 Tech Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=flat-square&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats:
+## 🚀 Featured Projects
 
-![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=PremVerma25-12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![Streak](https://streak-stats.demolab.com?user=PremVerma25-12&theme=tokyonight&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PremVerma25-12&theme=tokyonight&layout=compact)
+### 🛒 MyShop — E-Commerce Platform
+> Django · PostgreSQL · Bootstrap · JavaScript
+
+A full-stack e-commerce web app with product catalog, shopping cart, order management, secure payment flow, and an admin dashboard managing 100+ products. Implemented role-based access control and session-based authentication.
 
 ---
-<div align="center" style="margin-top: 40px; padding: 20px; background-color: #0f0c29; border-radius: 15px; box-shadow: 0 0 20px rgba(0, 255, 231, 0.3);">
-  <img src="IMG_20250807_010642.jpg" alt="Zoro" style="max-width: 100%; height: auto; border-radius: 12px;" />
-  <p style="margin-top: 15px; font-size: 18px; color: #00ffe7; font-weight: bold;">
-    “I’m going to be the world’s greatest swordsman.” — Roronoa Zoro
-  </p>
-</div>
 
-  
+### ⚡ REST API Backend Service
+> Django REST Framework · PostgreSQL · Postman
+
+Designed and deployed a RESTful API backend consumed by frontend clients. Achieved **30% reduction in data fetch time** and **40% improvement in query performance** through indexing and query optimization.
+
+---
+
+### 🏠 HomeShop *(In Progress)*
+> Django · MongoDB · TailwindCSS
+
+Next-generation e-commerce platform with an improved UI/UX, real-time features, and scalable backend architecture.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PremVerma25-12&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremVerma25-12&theme=default&hide_border=true&layout=compact" height="160" />
+</p>
+
+---
+
+## 🎓 Education & Certifications
+
+- **B.Tech in Computer Science Engineering** — Bansal College of Engineering, Mandideep (2020–2024) | CGPA: 7.4
+- **Python Full Stack Development Certificate** — Cybrom Technology Pvt. Ltd
+- **Internship Completion Certificate** — Cybrom Technology Pvt. Ltd & Zappkode Solutions Pvt. Ltd
+
+---
+
+<p align="center">
+  <i>Open to full-time roles in backend / full-stack development. Feel free to reach out!</i><br/>
+  <a href="mailto:premv6264@gmail.com">premv6264@gmail.com</a>
+</p>
